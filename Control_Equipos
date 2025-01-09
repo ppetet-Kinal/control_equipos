@@ -19,3 +19,6 @@ nb.add(pl, text='Directorio')
 
 label_nombre = tk.Label(pl, text="Cartera", font=("Arial", 16))
 label_nombre.place(x=50, y=50)
+
+
+root.mainloop()
